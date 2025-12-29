@@ -1,0 +1,33 @@
+# Multi-Modal Image and Text Retrieval System
+# Core Dependencies
+
+# Deep Learning Framework (Updated to latest stable version)
+tensorflow>=2.16.1
+tensorflow-hub>=0.16.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Vector Search
+faiss-cpu>=1.7.4
+
+# Web Framework
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+
+# NLP and Text Processing
+transformers>=4.35.0
+sentence-transformers>=2.2.2
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Testing
+pytest>=7.4.0
